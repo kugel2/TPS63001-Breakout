@@ -416,10 +416,7 @@ $EndComp
 Wire Wire Line
 	3850 3250 3900 3250
 Wire Wire Line
-	3850 2950 3850 3250
-Connection ~ 3850 2950
-Wire Wire Line
-	3900 3150 3850 3150
+	3750 3150 3900 3150
 Connection ~ 3850 3150
 $Comp
 L C C5
@@ -446,4 +443,7 @@ F 3 "" H 2950 3300 50  0000 C CNN
 	1    2950 3300
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	3850 3150 3850 3250
+Connection ~ 3750 3150
 $EndSCHEMATC
