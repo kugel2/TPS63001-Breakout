@@ -7,3 +7,8 @@ Buck-Boost Converter
 Vin 1,8-5,5V
 Vout 3,3V
 Iout max 800mA
+
+
+![top 3D rendering from KiCad](/pictures/3d_top.png?raw=true "Top")
+
+![bottom 3D rendering from KiCad](/pictures/3d_bottom.png?raw=true "Bottom")
